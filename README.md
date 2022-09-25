@@ -1,6 +1,6 @@
-# hive_counter
+# Hive Counter
 
-A new Flutter project.
+A flutter counter app made with [Hive](https://pub.dev/packages/hive)
 
 ## Getting Started
 
